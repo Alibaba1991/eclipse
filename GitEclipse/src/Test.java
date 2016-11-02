@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Testujemy gita w eclipsie");
 		System.out.println("Nowy branch");
+		System.out.println("ranch");
 	}
 
 }
